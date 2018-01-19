@@ -25,3 +25,11 @@
 *.exe
 *.out
 *.app
+
+.idea/
+*.iml
+*.xml
+
+
+
+
